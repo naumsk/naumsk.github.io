@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/global.css"],"names":[],"mappings":"oEAEA,KACI,SAAW","file":"static/css/main.65a5bed8.css","sourcesContent":["@import url('https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css');\r\n\r\nbody {\r\n    width: 50%;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/assets/global.css"],"sourceRoot":""}
